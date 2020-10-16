@@ -127,8 +127,6 @@ This is a tutorial style introduction to Python. For a quick reminder/summary of
 
 
 
-    
-
 ## How to Contribute
 
 To contribute, fork the repository, make some updates and send me a pull request. 
