@@ -64,6 +64,8 @@ or by using pip
 
 Download all the notebooks from [Python4Bioinformatics(https://github.com/Programming-SBCG853-Cohort3/Python4Bioinformatics2020). The easiest way to do that is to clone the GitHub repository to your working directory using any of the following commands:
 
+First, Fork the repo to you account, then clone using this command:
+
     git clone https://github.com/Programming-SBCG853-Cohort3/Python4Bioinformatics2020.git
 
 or
