@@ -1,7 +1,6 @@
 # Python For Bioinformatics
 
-Introduction to Python for Bioinformatics - available at https://github.com/kipkurui/Python4Bioinformatics2019.
-
+Introduction to Python for Bioinformatics - available at https://github.com/Programming-SBCG853-Cohort3/Python4Bioinformatics2020.
 <small><small><i>
 
 ## Attribution
@@ -44,6 +43,7 @@ The notebook can allow a computational researcher to create reproducible documen
     - `conda list`
 If the command cannot be found, you can add Anaconda bin to the path using:
     ` export PATH=~/miniconda3/bin:$PATH`
+   
 
 For reproducible analysis, you can [create a conda environment](https://conda.io/docs/user-guide/tasks/manage-environments.html) with all the Python packages you used.
 
@@ -62,19 +62,19 @@ or by using pip
 
 ## How to learn from this resource?
 
-Download all the notebooks from [Python4Bioinformatics(https://github.com/kipkurui/Python4Bioinformatics2019). The easiest way to do that is to clone the GitHub repository to your working directory using any of the following commands:
+Download all the notebooks from [Python4Bioinformatics(https://github.com/Programming-SBCG853-Cohort3/Python4Bioinformatics2020). The easiest way to do that is to clone the GitHub repository to your working directory using any of the following commands:
 
-    git clone https://github.com/kipkurui/Python4Bioinformatics2019.git
+    git clone https://github.com/Programming-SBCG853-Cohort3/Python4Bioinformatics2020.git
 
 or
 
-    wget https://github.com/kipkurui/Python4Bioinformatics2019/archive/master.zip
+    wget https://github.com/Programming-SBCG853-Cohort3/Python4Bioinformatics2020/archive/master.zip
     
     unzip master.zip
     
     rm master.zip
     
-    cd Python4Bioinformatics-master
+    cd Python4Bioinformatics2020-master
     
 Then you can quickly launch jupyter lab using:
 
@@ -136,4 +136,4 @@ To contribute, fork the repository, make some updates and send me a pull request
 Alternatively, you can open an issue. 
 
 ## License
-This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/.
+This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
